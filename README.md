@@ -1,27 +1,27 @@
-# Global_AI_impact
-Practicing the DataScience skills with an educational dataset from kaggle
+![...](./logo/logotype.png)
+## _Practicing the DataScience skills with an educational dataset from kaggle_
 
-# 🌍 Global AI Impact Analysis (2016–2021)
+# 🌍 Global AI Impact Analysis (2020–2025)
 
-Этот проект — обучающая работа на основе датасета [Global AI Impact for 6 years](https://www.kaggle.com/datasets) с Kaggle. Здесь я демонстрирую навыки работы с данными: от загрузки и предобработки до визуализации и создания модели для предсказания.
+This project is my educational work which helps me to apply my knowledge in IT fields like: Data Visualization, Data Preprocessing, ML, GitHub. This work is based on the kaggle dataset [Global AI Impact for 6 years](https://www.kaggle.com/datasets/atharvasoundankar/impact-of-ai-on-digital-media-2020-2025/data?select=Global_AI_Content_Impact_Dataset.csv). 
 
-## 🔍 Цель проекта
+## 🔍 The aim of this work
 
-Понять, как развивались технологии искусственного интеллекта в разных странах и сферах с 2016 по 2021 годы. Также попытаться предсказать будущее влияние AI на определённые сектора.
+To elucidate how the AI development affected the Global life for the last 5 years and make possible explanation to such results.
 
-## 🧰 Используемые технологии
+## 🧰 My Instruments
 
-- Python (Pandas, NumPy)
-- Matplotlib, Seaborn, Plotly
-- Scikit-learn
-- Jupyter Notebooks
+- Python libraries:
+  - Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
+- Google Colab
+- Git Bash
 
-## 📂 Структура проекта
+## 📂 Project structure
 
 - `notebooks/`: поэтапные исследования
 - `data/`: данные (сырой и очищенный варианты)
 - `src/`: вспомогательные функции
-- `README.md`: это описание :)
+- `README.md`: description
 
 ## 📊 Краткий обзор анализа
 
