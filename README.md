@@ -21,11 +21,8 @@ To elucidate how the AI development affected the Global life for the last 5 year
 - `notebooks/`: code
 - `data/`: data for analysis
 - `README.md`: description
+- `Conclusiom.md`: summary of the results of the analysis
 
-## 📊 Краткий обзор анализа
 
-- 📈 AI in different industries
-- 🌍 Top countries in AI adoption in 2025
-- 🔮 Some ML models (LogisticRegression, XGboost...)
 
 
